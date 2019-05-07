@@ -37,8 +37,9 @@ export default {
   right: 0;
   bottom: 0;
   left: 0;
+  margin-top: 55vh;
   max-width: 500px;
-  height: 500px;
+  height: 300px;
   .card {
     position: absolute;
     margin: auto;

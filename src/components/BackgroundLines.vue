@@ -36,6 +36,7 @@ name: 'BackgroundLines'
         top: 40%;
         background: $lightblue;
         overflow: hidden;
+        box-shadow: 1px 4px 8px rgb(38, 110, 122);
         &::after{
             content: '';
             display: block;
@@ -85,6 +86,7 @@ name: 'BackgroundLines'
         top: 55%;
         background: $lightblue;
         overflow: hidden;
+        //box-shadow: 1px 4px 8px rgb(38, 110, 122);
         &::after{
             content: '';
             display: block;
