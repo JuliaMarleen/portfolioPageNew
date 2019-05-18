@@ -12,13 +12,13 @@ export default {
 
 <style lang="scss" scoped>
 .box{
-    margin: 10%;
-    background-color: rgb(224, 224, 224);
+    margin: 3%;
+    background-color: rgb(224, 224, 220);
     height: 40%;
     width: 20%;
     padding: 5%;
     box-sizing: border-box;
-    box-shadow: 10px 10px 15px 1px rgba(114,167,194,0.6);
+    box-shadow: 0px 0px 10px 4px rgba(49, 150, 190, 0.596); //lengt hor, length ver, blur, spread
     border-radius: 25px;
 }
 
